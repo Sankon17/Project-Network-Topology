@@ -10,7 +10,3 @@ This repository contains the final Cisco Packet Tracer simulation file (`PROJECT
 ## 🛠️ Tools Used
 * Cisco Packet Tracer
 
-## 👥 Group Members (Group 1)
-* [Your Name]
-* [Team Member 2 Name]
-* [Team Member 3 Name]
